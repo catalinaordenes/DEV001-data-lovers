@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Datalovers: Pokemon](#1-Readme proyecto)
+* [1. Data Lovers-Pokemon]
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Objetivos de aprendizaje generales](#3-objetivos-de-aprendizaje-generales)
 * [4. Consideraciones generales](#4-consideraciones-generales)
@@ -15,7 +15,8 @@
 
 ***
 
-## 1. Datalovers: Pokemon
+## 1. Data Lovers - Pokemon
+
 Bienvenidxs a la Pokedex de Kanto !
 
 Pokemon es una serie que sigue las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras.
@@ -35,15 +36,31 @@ Historia 4:  Yo como jugador de Pokémon, me gustaría poder buscar los pokemone
 
 De estas historias de usuario, nacen los prototipos para comprender y establecer una estructura:
 
-Prototipo de baja fidelidad :para entender jerarquías y visualizaciones básicas a través de un dibujo simple .
-foto!!!!
+## Prototipo de baja fidelidad 
+para entender jerarquías y visualizaciones básicas a través de un dibujo simple .
 
 
-Prototipo de  alta fidelidad:  aquí pudimos establecer nuestra meta en base a nuestras aspiraciones tanto en lo visual como en lo funcional. Este prototipo fue hecho a través de
+[![Whats-App-Image-2022-11-28-at-1-48-22-PM.jpg](https://i.postimg.cc/Xq8k9jfW/Whats-App-Image-2022-11-28-at-1-48-22-PM.jpg)](https://postimg.cc/bSZnhjVV)
+
+## Prototipo de  alta fidelidad  
+Aquí pudimos establecer nuestra meta en base a nuestras aspiraciones tanto en lo visual como en lo funcional. Este prototipo fue hecho a través de
 Figma, donde logramos conocer las diversas ventajas de trabajar con esta página y el método Agile.
 
-foto!!!!
- link: 
+
+[![Whats-App-Image-2022-11-29-at-1-40-58-PM.jpg](https://i.postimg.cc/RFQgT5KM/Whats-App-Image-2022-11-29-at-1-40-58-PM.jpg)](https://postimg.cc/9R0PWkLS)
+[![Whats-App-Image-2022-11-29-at-1-39-51-PM.jpg](https://i.postimg.cc/k4dj8XV1/Whats-App-Image-2022-11-29-at-1-39-51-PM.jpg)](https://postimg.cc/67YLxKfn)
+
+ link: https://www.figma.com/file/FZ8pyEUhHMAMDxzR9lRc6Y/Prototipo-Datalovers%2FPokemon?node-id=20%3A147&t=4Zm9uENqEClGmN96-1
+ 
+ ## Listado de errores de usabilidad encontrados
+- Cuando entro los pokemon estan ordenados por numero, después las opciones de orden me da a-z y z-a pero no puedo volver al original por número.
+
+- Cuando selecciono algún tipo, por ejemplo planta, y pongo ordenar se vuelven a poner todos los pokemon. No se ordenan solo los tipo planta.
+
+- Pasa lo mismo con buscar, busca dentro de todos, no solo el tipo que está seleccionado.
+
+- Si vuelvo el dropdown a "Por tipo" desaparecen todos los pokemon.
+
 
 ## 2. Resumen del proyecto
 
